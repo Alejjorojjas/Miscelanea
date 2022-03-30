@@ -431,7 +431,7 @@ while controlmenuinicio != 99:
     except:
         input('''Opción no válida \n'''
         '''Por favor digita un número. \n'''
-        '''Presione Enter para continuar...''')
+        '''Presione Enter para continuar.....''')
         os.system('cls')
 
 
